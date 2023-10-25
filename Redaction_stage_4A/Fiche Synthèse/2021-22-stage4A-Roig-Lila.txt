@@ -1,0 +1,8 @@
+This internship took place at the ADAPT Center, located in Dublin City University (DCU), in Dublin in The Republic Of Ireland. 
+
+Students at the School of Computing in DCU are required to complete a project over the course of the year and have regular meetings with their supervisor to discuss the project’s progress. To help in the conduct of these projects, an online Student Dashboard has been set up. It contains information such as the date and duration of meetings, supervisor’s satisfaction with the student’s progress or comments written by the supervisor about the student progress.
+
+The first objective of this internship was to perform a descriptive analysis of all non-textual data extracted from the Dashboard to see which variables influence the marks of the students.
+Then, the Natural Language Processing (NLP) algorithm BERT was adapted to the problem to retrieve the main sentiments of supervisors’ comments to classify them as positive, negative or neutral. 
+One of the main challenges of this internship was to apply and adapt BERT algorithm to the classification of the Dashboard text data, containing a different vocabulary from the usual datasets used to train NLP models.
+Finally, the final mark of the students for their project was predicted, using machine learning algorithms and features extracted during the first two parts of this project. The aim was to notify supervisors in time in case of a student in difficulty.
