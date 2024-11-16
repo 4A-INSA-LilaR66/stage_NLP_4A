@@ -67,7 +67,7 @@ Stage_4A_Dublin-/
 │   │   ├── DashbordBERT.ipynb # Analyse de sentiments avec BERT
 │   │   ├── DashbordBasicNLP.ipynb # Analyse de sentiments avec des méthodes de NLP non-supervisées pour servir de baseline
 │
-│   ├── 3-Mark_Prediction/ # Prédiction de la note obtenue par les élèves 
+│   ├── 3-Mark_Prediction/ # Prédiction de la note obtenue par les élèves  \
 │   │   ├── data/
 │   │   │   ├── dfPredC_2.pkl # Dataframe containing all information (non-textual data + BERT sentiment analysis for 2 labels - positive, negative) to predict the student's grades
 │   │   │   ├── dfPredC_3.pkl # Dataframe containing all information (non-textual data + BERT sentiment analysis for 3 labels - positive, negative, neutral) to predict the student's grades
