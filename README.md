@@ -20,7 +20,7 @@ I worked primarily on my own throughout this project, using my own free Google C
 This was my first experience working on such a large project, and I learned a lot about data analysis, NLP, and machine learning, as well as presenting insights through visual tools. It also taught me the importance of better structuring projects for future work.
 
 ## Directory description
-
+```
 Stage_4A_Dublin-/
 ├── README.md            
 ├── Projet_stage_4A/
@@ -80,4 +80,4 @@ Stage_4A_Dublin-/
 │   ├── 2021-22-RapportStage4A-Lila-Roig.pdf # Rapport de stage
 │   ├── Overleaf-2021-22-RapportStage4A-Lila-Roig.zip # Latex du rapport de stage
 
-
+```
