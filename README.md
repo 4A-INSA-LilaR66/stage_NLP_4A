@@ -1,5 +1,9 @@
 # Stage de 4ème année 
 
+*June - August 2022*
+
+INSA Toulouse – Spécialité Mathématiques Appliquées, 4ᵉ année
+
 Internship conducted in the ADAPT lab at DCU, Dublin, Ireland, under the supervision of Dr Annalina Caputo (https://annalina.github.io/).
 
 ## Description of the project
